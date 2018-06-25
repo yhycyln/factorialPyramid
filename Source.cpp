@@ -1,5 +1,5 @@
 /******************************************
-* YAHYA CEYLANÝ
+* YAHYA CEYLANI
 * 25.06.2018
 * This program  creates a pyramid with factorials of numbers in an order
 * Factorial calculation is performed with memoization
